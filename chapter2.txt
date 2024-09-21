@@ -1,2 +1,5 @@
 You are using github, aren`t you?
+
 Localy yes, better is remotly!
+
+Thitd thing is merging, but after branching.
